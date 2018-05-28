@@ -10,7 +10,7 @@
 
 ### Leetcode
 
-在这里记录了关于实习找工作刷题记录[Leetcode Markdown](https://github.com/altmanWang/Offer-Solution).。
+在这里记录了关于实习找工作刷题记录[Leetcode Markdown](https://github.com/altmanWang/Offer-Solution)。
 
 ### Data Mining Competition
 
