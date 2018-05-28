@@ -1,36 +1,16 @@
-## Welcome to Altman GitHub Page
+## 欢迎来到Altman的GitHub Page
 
-I am Altman. I received the Bachelor Engineering degree from Xidian University, Xi’an, China, in 2016. Now, I am in there currently pursuing toward the M.S. degree. His research interests include computational intelligence and network representation learning.
+技术有温度，生活有趣味。
+
+### Leetcode
+
+在这里记录了关于实习找工作刷题记录[Leetcode Markdown](https://github.com/altmanWang/Offer-Solution).。
+
+### Data Mining Competition
+
+#### JDD-17 信贷需求预测
+#### IJCAI-18 阿里妈妈搜索广告转化预测
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/altmanWang/altman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
