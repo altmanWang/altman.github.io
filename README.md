@@ -11,6 +11,7 @@
 ### Leetcode
 
 在这里记录了关于实习找工作的刷题记录[Leetcode Markdown](https://github.com/altmanWang/Offer-Solution)。
+
 2018年春季实习招聘，获得offer：蘑菇街、阿里巴巴、华为。
 
 ### Data Mining Competition
