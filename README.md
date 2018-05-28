@@ -1,8 +1,7 @@
 ## Welcome to Altman GitHub Page
 
-You can use the [editor on GitHub](https://github.com/altmanWang/altman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Altman. I received the Bachelor Engineering degree from Xidian University, Xi’an, China, in 2016. Now, I am in there currently pursuing toward the M.S. degree. His research interests include computational intelligence and network representation learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
