@@ -4,8 +4,9 @@
 
 ### Papers
 会议论文：
-Feature Hashing for Network Representation Learning
-[Discrete particle swarm optimization based influence maximization in complex networks, Evolutionary Computation (CEC), 2017 IEEE Congress on](https://ieeexplore.ieee.org/document/7969351/)
+
+- Feature Hashing for Network Representation Learning
+- [Discrete particle swarm optimization based influence maximization in complex networks, Evolutionary Computation (CEC), 2017 IEEE Congress on](https://ieeexplore.ieee.org/document/7969351/)
 
 ### Leetcode
 
