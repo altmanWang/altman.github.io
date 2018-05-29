@@ -20,7 +20,7 @@
 #### IJCAI-18 阿里妈妈搜索广告转化预测 （53/5204）
 具体比赛解题思路与代码请查看[Notebook](https://github.com/altmanWang/IJCAI-18-CVR)。
 
-#### JDD-17 信贷需求预测 （Top 10%）
+#### JDD-17 信贷需求预测 （50/754）
 具体比赛代码请查看[Notebook](https://github.com/altmanWang/JDD)。
 
 
