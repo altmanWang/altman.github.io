@@ -17,7 +17,8 @@
 ### 数据挖掘比赛
 从2017年11月份开始参加数据挖掘类比赛，如京东金融、天池智能医疗-糖尿病预测、阿里妈妈搜索广告转化预测等。
 
-#### IJCAI-18 阿里妈妈搜索广告转化预测 （52/5204）
+#### IJCAI-18 阿里妈妈搜索广告转化预测 （53/5204）
+具体比赛解题思路与代码请查看[Notebook](https://github.com/altmanWang/IJCAI-18-CVR)。
 
 #### JDD-17 信贷需求预测 （Top 10%）
 具体比赛代码请查看[Notebook](https://github.com/altmanWang/JDD)。
