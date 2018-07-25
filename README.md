@@ -5,7 +5,7 @@
 ### 论文
 会议论文：
 
-- [Feature Hashing for Network Representation Learning, the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence](http://www.ijcai-18.org/accepted-papers/)
+- [Feature Hashing for Network Representation Learning, the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence](https://www.ijcai.org/proceedings/2018/0390.pdf)
 - [Discrete particle swarm optimization based influence maximization in complex networks, Evolutionary Computation (CEC), 2017 IEEE Congress on](https://ieeexplore.ieee.org/document/7969351/)
 
 ### 编程练习
